@@ -10,15 +10,9 @@ Este repositório contém exercícios desenvolvidos durante meus estudos de Prog
 
 ---
 
-## 📁 Estrutura
+##  Exemplo de atividade
 
-As atividades estão organizadas em pastas separadas. Algumas envolvem lógica básica, outras exploram estruturas mais avançadas como datas, listas e herança.
-
----
-
-## 🧪 Exemplo de atividade
-
-Abaixo está um trecho de uma das atividades, que demonstra o uso de:
+Abaixo está um trecho de uma das atividades onde apliquei conceitos de:
 
 - Herança
 - Polimorfismo
